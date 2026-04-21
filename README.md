@@ -1,5 +1,3 @@
-# Option-Pricing-using-IV-Volatility
-
 # 📈 Options Pricing & Volatility Surface Model
 
 This project is a complete Python framework for **options data analysis, implied volatility surface construction, and derivative pricing** using both the **Black-Scholes model** and a **Calibrated Local Volatility (CEV) model**.
